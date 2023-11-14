@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit_3/task27/bin/Debug/net7.0/task27
+/Users/daeddman/RiderProjects/qbit_3/task27/bin/Debug/net7.0/task27.deps.json
+/Users/daeddman/RiderProjects/qbit_3/task27/bin/Debug/net7.0/task27.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit_3/task27/bin/Debug/net7.0/task27.dll
+/Users/daeddman/RiderProjects/qbit_3/task27/bin/Debug/net7.0/task27.pdb
+/Users/daeddman/RiderProjects/qbit_3/task27/obj/Debug/net7.0/task27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit_3/task27/obj/Debug/net7.0/task27.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit_3/task27/obj/Debug/net7.0/task27.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit_3/task27/obj/Debug/net7.0/task27.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit_3/task27/obj/Debug/net7.0/task27.dll
+/Users/daeddman/RiderProjects/qbit_3/task27/obj/Debug/net7.0/refint/task27.dll
+/Users/daeddman/RiderProjects/qbit_3/task27/obj/Debug/net7.0/task27.pdb
+/Users/daeddman/RiderProjects/qbit_3/task27/obj/Debug/net7.0/task27.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit_3/task27/obj/Debug/net7.0/ref/task27.dll
